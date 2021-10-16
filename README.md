@@ -21,5 +21,5 @@ Here are some ideas to get you started:
  - [ ] [realworld.io monolith backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-monolith)
  - [ ] [realworld.io microservices backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-microservices)
  - [ ] [realworld.io microservices backend written using AWS Serverless]()
- - [ ] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
+ - [x] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
  
