@@ -22,4 +22,11 @@ Here are some ideas to get you started:
  - [ ] [realworld.io microservices backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-microservices)
  - [ ] [realworld.io microservices backend written using AWS Serverless]()
  - [x] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
- 
+
+
+#### **Tech Stack**
+ - Frontend: Javascript/Typescript/React
+ - Backend: Vert.x, RxJava, Node.js 
+ - Databases: MySQL, PostgreSQL, DynamoDB, Redis
+ - Deployment: AWS, Docker, Kubernetes, Helm
+ - Concepts: DDD, TDD, Functional Programming, OOP
