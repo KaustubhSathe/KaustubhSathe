@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 
 #### **My Work**
- - [Codeforces](https://github.com/KaustubhSathe/Codeforces)
+ - [vinsmoke.judge - Online judge written using AWS serverless](https://github.com/KaustubhSathe/vinsmoke-serverless)
+ - [vinsmoke.judge - Online judge written using Vert.x deployed on Docker/Kubernetes](https://github.com/KaustubhSathe/vinsmoke-containerized)
+ - [realworld.io backend written](https://github.com/KaustubhSathe/realworld-vertx-monolith)
+ - [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
+ 
