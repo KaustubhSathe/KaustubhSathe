@@ -20,5 +20,6 @@ Here are some ideas to get you started:
  - [ ] [vinsmoke.judge - Online judge written using Vert.x deployed on Docker/Kubernetes](https://github.com/KaustubhSathe/vinsmoke-containerized)
  - [ ] [realworld.io monolith backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-monolith)
  - [ ] [realworld.io microservices backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-microservices)
+ - [ ] [realworld.io microservices backend written using AWS Serverless]()
  - [ ] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
  
