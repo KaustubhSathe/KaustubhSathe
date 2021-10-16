@@ -28,5 +28,5 @@ Here are some ideas to get you started:
  - Frontend: Javascript/Typescript/React
  - Backend: Vert.x, RxJava, Node.js 
  - Databases: MySQL, PostgreSQL, DynamoDB, Redis
- - Deployment: AWS, Docker, Kubernetes, Helm
+ - Deployment: AWS, Docker, Kubernetes
  - Concepts: DDD, TDD, Functional Programming, OOP
