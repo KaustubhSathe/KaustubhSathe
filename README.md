@@ -7,10 +7,10 @@
  - [ ] [realworld.io react-native mobile app]
  - [x] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
 
-#### To-do
+<!-- #### To-do
  - [ ] [grpc-tester - VSCode/Intellij Extension for testing gRPC services]()
  - [ ] C# unity ludo game serverless backend
- - [ ] 
+ - [ ]  -->
 
 
 #### **Tech Stack**
