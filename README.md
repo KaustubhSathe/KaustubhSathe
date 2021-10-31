@@ -5,7 +5,7 @@
  - [ ] [realworld.io monolith backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-monolith)
  - [ ] [realworld.io microservices backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-microservices)
  - [ ] [realworld.io microservices backend written using AWS Serverless]()
- - [ ] [realworld.io react-native mobile app]
+ - [ ] [realworld.io react-native mobile app](https://github.com/KaustubhSathe/realworld-RN)
  - [x] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
 
 <!-- #### To-do
