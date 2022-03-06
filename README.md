@@ -19,6 +19,6 @@
 #### **Tech Stack**
  - Frontend: Javascript/Typescript/React
  - Backend: Vert.x, RxJava, Node.js 
- - Databases/ORM: MySQL, PostgreSQL, Hibernate, DynamoDB, Redis
+ - Databases/ORM: MySQL, PostgreSQL, DynamoDB, Redis
  - Deployment: AWS, Docker, Kubernetes
  - Concepts: DDD, TDD, Functional Programming, OOP
