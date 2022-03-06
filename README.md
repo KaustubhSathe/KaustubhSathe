@@ -1,12 +1,13 @@
 #### **My Work**
  - [ ] [vinsmoke.judge - Online judge written using AWS serverless](https://github.com/KaustubhSathe/vinsmoke-serverless)
- - [ ] [vinsmoke.judge - Online judge written using Vert.x deployed on Docker/Kubernetes](https://github.com/KaustubhSathe/vinsmoke-containerized)
+<!--  - [ ] [vinsmoke.judge - Online judge written using Vert.x deployed on Docker/Kubernetes](https://github.com/KaustubhSathe/vinsmoke-containerized) -->
  - [ ] [qna.app](https://github.com/KaustubhSathe/qna.app)
  - [ ] [realworld.io monolith backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-monolith)
  - [ ] [realworld.io microservices backend written using Vert.x](https://github.com/KaustubhSathe/realworld-vertx-microservices)
  - [ ] [realworld.io microservices backend written using AWS Serverless]()
  - [ ] [realworld.io react-native mobile app](https://github.com/KaustubhSathe/realworld-RN)
  - [x] [Codeforces - VS Code Extension for Codeforces](https://github.com/KaustubhSathe/Codeforces)
+<!--  - [ ] [Ludo game in lua](#) -->
 
 <!-- #### To-do
  - [ ] [grpc-tester - VSCode/Intellij Extension for testing gRPC services]()
