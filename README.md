@@ -20,4 +20,4 @@
  - Backend: Vert.x, RxJava, Node.js 
  - Databases/ORM: MySQL, PostgreSQL, DynamoDB, Redis
  - Deployment: AWS, Docker, Kubernetes
- - Concepts: DDD, TDD, Functional Programming, OOP
+ - Concepts: TDD, Functional Programming, OOP
