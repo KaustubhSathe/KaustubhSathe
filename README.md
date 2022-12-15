@@ -5,9 +5,4 @@
 <!--  - [] doodle jump in sdl -->
 
 
-#### **Tech Stack**
- - Frontend: Javascript/Typescript/React
- - Backend: Vert.x, RxJava, Node.js 
- - Databases/ORM: MySQL, PostgreSQL, DynamoDB, Redis
- - Deployment: AWS, Docker
- - Concepts: TDD, Functional Programming, OOP
+
